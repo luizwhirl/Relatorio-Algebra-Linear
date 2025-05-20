@@ -25,6 +25,7 @@
 
 \begin{comment}
 aprende aí peãozinho, comentário é assim ó
+kkkkkkkkkkkkkkkkkk
 \end{comment}
 
 \iffalse
@@ -94,6 +95,8 @@ sendo o $\mu_i$ o centroide do cluster $C_i$. Logo, a média vetorial é utiliza
     \item A função de custo $J$ é a soma de todas as distâncias quadraticas entre os pontos de dados e seus respectivos centroides$\cite{unsupervised}$, somada para todos os clusters $i$ e para todos os pontos $x_j$ drento de cada cluster.
 \end{itemize}
 
+
+\newpage
 \section{Aplicação}
 
 Para a aplicação, nós vamos implementar o algoritmo K-means em  para que possamos agrupar um conjunto de dados sintéticos em 3 clsuters. Para se vizualizar e compreender os cálculos, os dados foram reduzidos para duas dimensões via PCA
@@ -153,6 +156,7 @@ Além de que, a integração com ferramentas como Scikit-learn, que já é uma f
 \end{itemize}
 \fi
 
+\newpage
 \section{Conclusão}
 
 Portanto, o estudo do agrupamento de dados mostra como a álgebra linear é uma base essencial para diversas etapas do processo, desde o cálculo de distâncias de projeção, até a redução de dimensionalidade. Se utilizar do PCA como uma técnica de compressão de dados tambem se mostra ser bastante eficaz para preservar a estrutura dos clusters, e Kmeans, por sua vez, se fez ser um método bastante eficiente na identificação de grupos similares$\cite{kmeanswiki}\cite{pjoy}$. Dentre as limitações, foi notável a necessidade de definir previamente o número de clusters e a sensibilidade às escolhas iniciais dos centróides$\cite{unsupervised}$.
@@ -166,7 +170,7 @@ Em síntese, o estudo do agrupamento de dados através da visão da algebra lien
 
 \newpage
 \renewcommand{\refname}{\section{Referências}
-\addcontentsline{toc}{section}{Referências}}
+\addcontentsline*{toc}{section}{}}
 \bibliographystyle{plain}
 \bibliography{refs}
 
