@@ -8,6 +8,6 @@ Mas no overleaf funciona.
 
 Integrantes:
 
-[lucasqtl](https://github.com/rodrigololr)
+[lucasqtl](https://github.com/lucasqtl)
 
 [rodrigololr](https://github.com/rodrigololr)
