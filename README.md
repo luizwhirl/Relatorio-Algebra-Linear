@@ -5,3 +5,7 @@ relatório de algebra linear em LaTeX.
 Pra falar a verdade eu nao sei. Eu não fiz no vscode, então não faço a menor ideia de como posso fazer isso não.
 
 Mas no overleaf funciona.
+
+Integrantes:
+[lucasqtl](https://github.com/rodrigololr)
+[rodrigololr](https://github.com/rodrigololr)
