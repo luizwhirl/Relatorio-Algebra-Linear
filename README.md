@@ -1,4 +1,4 @@
-relatório de algebra linear em LaTeX. 
+# Relatório de Álgebra Linear em LaTeX. 
 
 ## Como executar
 
@@ -9,5 +9,5 @@ Mas no overleaf funciona.
 Integrantes:
 
 [lucasqtl](https://github.com/lucasqtl)
-
+[luizwhirl](https://github.com/luizwhirl)
 [rodrigololr](https://github.com/rodrigololr)
